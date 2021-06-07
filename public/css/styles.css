@@ -1,0 +1,40 @@
+body{
+    background:rgb(255, 255, 255) !important;
+}
+.form-data{
+    padding:20px;
+    background:#fff;
+    box-shadow:0px 0px 10px 12px #2f2f2f23;
+    margin-top:10vh;
+    border-radius:5px
+}
+.form-data h3{
+    text-align: center;
+    margin-bottom:10px;
+}
+.btn-widthFull{
+    width:100%;
+}
+.noAccountText{
+    text-align: center;
+    margin-top:10px;
+}
+nav.navbar.navbar-inverse {
+    border-radius: 0px;
+}
+.form-control {
+    padding: 20px 12px;
+}
+.errorText{
+    color:#ff0000;
+}
+.border_error{
+    border-color:#ff0000
+}
+.card{
+    padding:40px 20px;
+    background:#fff;
+    box-shadow:0px 0px 10px 12px #2f2f2f23;
+    border-radius:5px;
+    margin-top:40px;
+}
